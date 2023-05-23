@@ -1,0 +1,38 @@
+The dataset consisted of 400 observations, spanning mul-
+tiple variables, including the operating system (OS), Scene,
+and Algorithm. Visualization of the data revealed a consistent
+performance order across different operating systems, with
+macOS outperforming the rest.
+In our three-way ANOVA, we found significant main effects
+for each of the three factors: OS (F(4, 385) = 2053.15, p ¡
+0.001), Scene (F(3, 385) = 13650.10, p ¡ 0.001), and Algorithm
+(F(3, 385) = 2266.74, p ¡ 0.001). We also discovered signifi-
+cant two-way and three-way interaction effects. These results
+underscore the complex interplay between the OS, Scene, and
+Algorithm in influencing rendering times.
+Investigation of the model diagnostics showed a rough
+approximation of a normal distribution in the histogram of
+residuals, suggesting that the assumption of normality for the
+ANOVA was satisfactorily met. However, the homoscedas-
+ticity plot indicated that the assumption of equal variances
+was violated. Logarithmic transformation of the data led to a
+marked improvement in Levene’s test, indicating an improve-
+ment in homoscedasticity, and this transformed data was used
+for the final analysis.
+The Tukey HSD post-hoc test identified specific pairwise
+differences among the levels of the factors. This provided a
+detailed understanding of the specific combinations of factors
+that led to significant differences in rendering times.
+Visual representation of the log-transformed Time variable
+across different OSs, Scenes, and Algorithms further validated
+the ANOVA and post-hoc results. macOS consistently outper-
+formed other operating systems in terms of rendering time
+efficiency. Particularly notable was the performance of the
+Windows Subsystem for Linux (WSL) on a MacBook.
+The heteroscedasticity issue, though improved with logarith-
+mic transformation, was still present. As such, further research
+may benefit from using robust statistical techniques that do
+not assume homogeneity of variances. Despite this limitation,
+these findings shed light on crucial aspects that could guide
+future software development and hardware optimization strate-
+gies.

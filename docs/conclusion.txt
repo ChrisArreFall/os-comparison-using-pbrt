@@ -1,0 +1,17 @@
+This analysis suggests that both the OS and the selected
+scene and algorithm significantly influence rendering times.
+Further investigation into why macOS outperforms other oper-
+ating systems and how specific scenes and algorithms interact
+with OS could lead to optimizations and improved rendering
+performance.
+
+While this analysis provides valuable insights into the fac-
+tors influencing rendering times, it is not without limitations.
+The stringent Levene’s test, despite data transformation, sug-
+gests that heteroscedasticity might be an issue. Future analyses
+may explore robust statistical techniques that do not assume
+homogeneity of variances, such as the Welch ANOVA or non-
+parametric alternatives. Additionally, further research into the
+mechanisms underlying the observed performance differences
+could help inform software development and hardware opti-
+mization strategies.

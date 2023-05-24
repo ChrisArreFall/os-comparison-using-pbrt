@@ -1,0 +1,16 @@
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxHW/5/log-linuxHW-coffee-splash-bvh.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxHW/5/log-linuxHW-coffee-splash-kdtree.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxHW/5/log-linuxHW-coffee-splash-mitchell.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxHW/5/log-linuxHW-coffee-splash-sinc.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxHW/5/log-linuxHW-ganesha-bvh.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxHW/5/log-linuxHW-ganesha-kdtree.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxHW/5/log-linuxHW-ganesha-mitchell.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxHW/5/log-linuxHW-ganesha-sinc.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxHW/5/log-linuxHW-pbrt-book-bvh.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxHW/5/log-linuxHW-pbrt-book-kdtree.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxHW/5/log-linuxHW-pbrt-book-mitchell.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxHW/5/log-linuxHW-pbrt-book-sinc.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxHW/5/log-linuxHW-sssdragon-bvh.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxHW/5/log-linuxHW-sssdragon-kdtree.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxHW/5/log-linuxHW-sssdragon-mitchell.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxHW/5/log-linuxHW-sssdragon-sinc.txt

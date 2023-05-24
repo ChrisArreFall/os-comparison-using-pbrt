@@ -1,7 +1,0 @@
-The experimental design for this research is constructed around a robust testbench and a well-controlled execution sequence. The testbench selected is a 2019 16" MacBook Pro equipped with an Intel core i9-9980HK processor, 64 GB of RAM, and an AMD Radeon Pro 5500M GPU. Both Windows and Linux operating systems were installed on the same Solid State Drive (SSD), minimizing any potential hardware-related performance disparities.
-
-For each of the five operating system scenarios: Linux installed on hardware, Linux running on a Virtual Machine (VM) via Windows through VMware, Windows Subsystem for Linux (WSL), Windows, and MacOS, 16 tests were run. These tests were combinations of the four different scenes (coffee-splash, ganesha, pbrt-book, sssdragon) and the four configurations (bvh, kdtree, mitchell, sinc), resulting in a 4*4 design matrix.
-
-Each operating system was booted individually, and the 16 scenarios were executed using an automated script. The execution order of the tests was randomized for each operating system to counterbalance any order effects.
-
-For data logging, the output of each pbrt-v3 test was redirected to a text file, using the naming scheme: log-$OS-$Scene-$Config.txt. This nomenclature allowed for easy tracking and identification of each scenario.

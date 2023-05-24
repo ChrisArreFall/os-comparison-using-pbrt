@@ -1,0 +1,16 @@
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxVM/5/log-linuxVM-coffee-splash-bvh.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxVM/5/log-linuxVM-coffee-splash-kdtree.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxVM/5/log-linuxVM-coffee-splash-mitchell.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxVM/5/log-linuxVM-coffee-splash-sinc.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxVM/5/log-linuxVM-ganesha-bvh.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxVM/5/log-linuxVM-ganesha-kdtree.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxVM/5/log-linuxVM-ganesha-mitchell.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxVM/5/log-linuxVM-ganesha-sinc.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxVM/5/log-linuxVM-pbrt-book-bvh.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxVM/5/log-linuxVM-pbrt-book-kdtree.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxVM/5/log-linuxVM-pbrt-book-mitchell.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxVM/5/log-linuxVM-pbrt-book-sinc.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxVM/5/log-linuxVM-sssdragon-bvh.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxVM/5/log-linuxVM-sssdragon-kdtree.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxVM/5/log-linuxVM-sssdragon-mitchell.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/linuxVM/5/log-linuxVM-sssdragon-sinc.txt

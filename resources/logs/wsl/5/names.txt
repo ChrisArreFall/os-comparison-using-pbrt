@@ -1,0 +1,16 @@
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/wsl/5/log-wsl-coffee-splash-bvh.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/wsl/5/log-wsl-coffee-splash-kdtree.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/wsl/5/log-wsl-coffee-splash-mitchell.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/wsl/5/log-wsl-coffee-splash-sinc.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/wsl/5/log-wsl-ganesha-bvh.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/wsl/5/log-wsl-ganesha-kdtree.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/wsl/5/log-wsl-ganesha-mitchell.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/wsl/5/log-wsl-ganesha-sinc.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/wsl/5/log-wsl-pbrt-book-bvh.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/wsl/5/log-wsl-pbrt-book-kdtree.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/wsl/5/log-wsl-pbrt-book-mitchell.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/wsl/5/log-wsl-pbrt-book-sinc.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/wsl/5/log-wsl-sssdragon-bvh.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/wsl/5/log-wsl-sssdragon-kdtree.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/wsl/5/log-wsl-sssdragon-mitchell.txt
+/c/Users/chris/Documents/TEC/Maestria/Semestre_1/Diseno_de_experimentos/Proyecto_2/logs-new/wsl/5/log-wsl-sssdragon-sinc.txt
